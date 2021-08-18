@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+### Hello, World! :biking_man:
+
+####  Hi, I'm Leandro Dolensi. 
+
+Feel free on my profile. 
+
+Here I put my projects on programming. Simple projects, but done with dedication :smirk:
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDolensi&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 <!--
 **LeandroDolensi/LeandroDolensi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
