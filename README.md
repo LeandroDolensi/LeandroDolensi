@@ -4,7 +4,7 @@
 
 
 
-Feel free on my profile, here I put my projects on programming.
+Feel free on my profile, here I put some of my projects on programming.
 Simple projects, but done with dedication :smirk:
 
 
