@@ -4,8 +4,8 @@
 <br/>
 
 
-Feel free on my profile, here I put some of my projects on programming. <br/>
-Simple projects, but done with dedication :smirk:
+You'll feel free on my profile, here I put some of my projects on programming. <br/>
+They're simple projects, but finished with dedication :smirk:
 
 <br/>
 
